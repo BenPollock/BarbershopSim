@@ -1,0 +1,12 @@
+== Barbershop Simulator
+
+This application simulates the sleeper barber problem.  It features three barbers and a configurable set of customers.  It uses POSIX Sempahores and SystemV shared memory.  The application is written in C.
+
+<b>Usage</b>
+
+Create a customerdata file.  Two examples are given, customerdata and customerdata2.  Then, call the application through the command line:
+<tt>./barbershop NUMCUSTOMERS CUSTOMERDATAFILE</tt>
+A working example of this is:
+<tt>./barbershop 16 customerdata</tt>
+
+The program is fully compiled already but the source code is included.

@@ -1,0 +1,111 @@
+<09:00:00>Customer 0 arrives to the barber shop
+<09:00:00>Customer 0 enters the waiting room
+<09:00:00>Customer 0 sits on sofa
+<09:00:00>Customer 0 goes on barber chair
+<09:00:02>Customer 0 leaves barber chair
+<09:00:02>Customer 0 receives receipt
+<09:00:02>Customer 0 leaves the barber shop.
+<09:01:01>Customer 1 arrives to the barber shop
+<09:01:01>Customer 1 enters the waiting room
+<09:01:01>Customer 1 sits on sofa
+<09:01:01>Customer 1 goes on barber chair
+<09:01:01>Customer 2 arrives to the barber shop
+<09:01:04>Customer 2 enters the waiting room
+<09:01:04>Customer 2 sits on sofa
+<09:01:04>Customer 2 goes on barber chair
+<09:01:04>Customer 2 leaves barber chair
+<09:01:05>Customer 2 receives receipt
+<09:01:05>Customer 2 leaves the barber shop.
+<09:05:04>Customer 3 arrives to the barber shop
+<09:05:04>Customer 3 enters the waiting room
+<09:05:04>Customer 3 sits on sofa
+<09:05:04>Customer 3 goes on barber chair
+<09:05:04>Customer 4 arrives to the barber shop
+<09:05:04>Customer 4 enters the waiting room
+<09:05:04>Customer 4 sits on sofa
+<09:05:04>Customer 4 goes on barber chair
+<09:05:04>Customer 4 leaves barber chair
+<09:05:04>Customer 4 receives receipt
+<09:05:04>Customer 4 leaves the barber shop.
+<09:43:59>Customer 3 leaves barber chair
+<09:45:59>Customer 3 receives receipt
+<09:45:59>Customer 3 leaves the barber shop.
+<11:23:56>Customer 5 arrives to the barber shop
+<11:23:56>Customer 5 enters the waiting room
+<11:23:56>Customer 5 sits on sofa
+<11:23:56>Customer 5 goes on barber chair
+<11:23:56>Customer 6 arrives to the barber shop
+<11:23:56>Customer 6 enters the waiting room
+<11:23:56>Customer 6 sits on sofa
+<11:23:56>Customer 6 goes on barber chair
+<11:23:56>Customer 6 leaves barber chair
+<11:23:56>Customer 6 receives receipt
+<11:23:56>Customer 6 leaves the barber shop.
+<11:23:56>Customer 8 arrives to the barber shop
+<11:24:07>Customer 7 arrives to the barber shop
+<11:24:07>Customer 7 enters the waiting room
+<11:24:07>Customer 7 sits on sofa
+<11:24:07>Customer 7 goes on barber chair
+<11:24:08>Customer 8 enters the waiting room
+<11:24:08>Customer 8 sits on sofa
+<11:54:38>Customer 7 leaves barber chair
+<11:54:38>Customer 8 goes on barber chair
+<11:55:38>Customer 7 receives receipt
+<11:55:38>Customer 7 leaves the barber shop.
+<11:55:38>Customer 8 leaves barber chair
+<11:55:38>Customer 8 receives receipt
+<11:55:38>Customer 8 leaves the barber shop.
+<12:15:11>Customer 9 arrives to the barber shop
+<12:15:11>Customer 9 enters the waiting room
+<12:15:11>Customer 9 sits on sofa
+<12:15:11>Customer 9 goes on barber chair
+<12:15:11>Customer 10 arrives to the barber shop
+<12:15:11>Customer 10 enters the waiting room
+<12:15:11>Customer 10 sits on sofa
+<12:15:11>Customer 12 arrives to the barber shop
+<12:15:19>Customer 11 arrives to the barber shop
+<12:15:19>Customer 11 enters the waiting room
+<12:15:19>Customer 11 sits on sofa
+<12:15:19>Customer 12 enters the waiting room
+<12:15:19>Customer 12 sits on sofa
+<13:05:41>Customer 9 leaves barber chair
+<13:05:41>Customer 10 goes on barber chair
+<13:07:41>Customer 9 receives receipt
+<13:07:42>Customer 9 leaves the barber shop.
+<13:07:42>Customer 10 leaves barber chair
+<13:07:42>Customer 11 goes on barber chair
+<13:07:42>Customer 10 receives receipt
+<13:07:42>Customer 10 leaves the barber shop.
+<13:30:03>Customer 13 arrives to the barber shop
+<13:30:03>Customer 13 enters the waiting room
+<13:30:03>Customer 13 sits on sofa
+<13:30:11>Customer 14 arrives to the barber shop
+<13:30:11>Customer 14 enters the waiting room
+<13:30:11>Customer 14 sits on sofa
+<13:37:28>Customer 11 leaves barber chair
+<13:37:28>Customer 12 goes on barber chair
+<13:39:28>Customer 11 receives receipt
+<13:39:28>Customer 11 leaves the barber shop.
+<13:39:28>Customer 13 goes on barber chair
+<13:39:28>Customer 12 leaves barber chair
+<13:45:01>Customer 15 arrives to the barber shop
+<13:45:01>Customer 15 enters the waiting room
+<13:45:01>Customer 15 sits on sofa
+<14:28:46>Customer 13 leaves barber chair
+<14:28:46>Customer 12 receives receipt
+<14:28:46>Customer 12 leaves the barber shop.
+<14:28:46>Customer 14 goes on barber chair
+<14:29:46>Customer 13 receives receipt
+<14:29:46>Customer 13 leaves the barber shop.
+<14:29:46>Customer 14 leaves barber chair
+<14:29:46>Customer 15 goes on barber chair
+<14:29:47>Customer 14 receives receipt
+<14:29:47>Customer 14 leaves the barber shop.
+<14:51:02>Customer 15 leaves barber chair
+<14:52:02>Customer 15 receives receipt
+<14:52:02>Customer 15 leaves the barber shop.
+Revenue is 240
+0 Customers have been turned away
+Total customers served is 16
+Total haircut time was 260 minutes
+Average stay time was 114 minutes

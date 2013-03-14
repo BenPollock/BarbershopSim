@@ -1,0 +1,35 @@
+To complete Lab 3 you will need to first finish the stub functions in the following files:
+helpers.c, fifo.c, and customer.c
+
+Modify the following functions from the corresponding .c file:
+
+y int TimeStampStr2Sec(char* timeStamp);
+y void TimeStampSec2Str(char* timeStampStr, int timeStampSec);
+y int ServiceTimeStr2Sec(char* serviceTimeAsString);
+void GetSimTimeStamp(char* simTimeStampStr, int simStartTime, double realStartTime);
+y int GetCashierDelay(char* paymentType);
+y double GetHairCutPrice(char* customerType);
+void Enqueue( fifo* queue, int customerData );
+int Dequeue( fifo* queue );
+int LoadCustomerData( char* customerDataFileName, customer customers[], int numCustomers )
+void PrintCustomerData( customer* c )
+
+You can test your functions with the following test programs:
+
+fifo_test.c
+haircut_test.c
+cashierdelay_test.c
+servicetimestr2sec_test.c
+timestampsec2str_test.c
+timestampstr2sec_test.c
+
+They will print PASS if the functions have been completed correctly. You can use the given make file (by typing 'make' while in a directory with Makefile) to compile the test programs all at once, or individually by using gcc on the command line. Please note that you need to link any program that uses math.h by using the '-lm' option during the complilation process; programs that use pthread.h need to be linked using the 'lpthread' option.
+
+You will then need to modify the following functions in customer.c and barbershop.c to simulate the barbershop:
+
+void *Customer( void* arg );
+void *Barber( void* arg );
+void *Cashier( void* arg );
+int main( int argc, char *argv[] );
+
+There is no test for the barbershop simulation but you can look at the 'samplebarbershop' for an example on how to display events and timestamps.
